@@ -2,9 +2,9 @@ import java.io.*;
 import java.util.*;
 
 public class day17_java_string_reverse {
-
+    
     public static void main(String[] args) {
-
+        
         Scanner inputuser=new Scanner(System.in);
         String A = inputuser.next();
         int tes = A.length()-1;
